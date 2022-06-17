@@ -9,7 +9,15 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 <br>
 
 
-## [Aqui estão meus projetos](https://github.com/JamDev0?tab=repositories)
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="[https://github.com/JCDMeira?tab=stars](https://github.com/JamDev0?tab=repositories)"
+    >Aqui estão meus projetos</a>
+  </h2>
+</div>
 
 
 <br>
