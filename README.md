@@ -4,6 +4,12 @@
 
 Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 
+### Querendo me contatar? Aqui está como:
+
+Email: jamdeveloper0@gmail.com
+Número: +55 11 947007927
+[Linkedin](https://www.linkedin.com/in/juan-garcia-5b8951214/) 
+
 ## [Aqui estão meus projetos](https://github.com/JamDev0?tab=repositories)
 
 ## :chart_with_upwards_trend: E aqui estão minhas estatísticas:
