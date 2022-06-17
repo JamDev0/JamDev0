@@ -10,3 +10,8 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamdev0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamdev0&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+
+## 📅 Todas informações sobre minha constância:
+ <div align='center'>
+<a height="150em" href="http://www.github.com/JamDev0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
