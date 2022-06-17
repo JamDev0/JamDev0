@@ -5,8 +5,16 @@
 Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 
 
+<br>
+<br>
+
 
 ## [Aqui estão meus projetos](https://github.com/JamDev0?tab=repositories)
+
+
+<br>
+<br>
+
 
 ## :chart_with_upwards_trend: E aqui estão minhas estatísticas:
 
