@@ -39,7 +39,7 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 <br>
 
 
-### Querendo me contatar? Aqui está como:
+### Querendo me contatar?:
 
 Email: jamdeveloper0@gmail.com
 
