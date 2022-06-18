@@ -14,7 +14,7 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
     <a
     target="_blank"
     style="text-decoration: none"
-    href="[https://github.com/JamDev0?tab=repositories](https://github.com/stars/JamDev0/lists/repos)"
+    href="https://github.com/stars/JamDev0/lists/repos"
     >Aqui estão meus projetos</a>
   </h2>
 </div>
