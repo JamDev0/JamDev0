@@ -15,7 +15,7 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/stars/JamDev0/lists/repos"
-    >Aqui estão meus projetos</a>
+    >Aqui estão meus principais projetos🚀</a>
   </h2>
 </div>
 
