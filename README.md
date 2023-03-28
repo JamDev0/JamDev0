@@ -36,11 +36,11 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 <br>
 
 
-## 📅 Todas informações sobre minha constância:
- <div align='center'>
-<a height="150em" href="http://www.github.com/JamDev0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamDev0&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+## 📅 Todas informações sobre minha constância(WakaTime):
+<div style="flex-direction: column; display: flex; align-items: center;">
+ <p style="font-weight: 600; font-size: 1.5rem" >Constância(WakaTime)</p>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/fe6e043e-26ec-4450-a510-107ce7b2c918.png" /></a>
 </div>
-
 
 <br>
 <br>
