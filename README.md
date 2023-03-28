@@ -1,9 +1,8 @@
- # Opa, [Juan Garcia](https://www.linkedin.com/in/jeanmeira/) aqui!
+ # Hello there😁👋, I'm [Juan Garcia](https://www.linkedin.com/in/juan-garcia-5b8951214/)
 
-## Sou...
+## In short, I'm a...
 
-Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
-
+React Front-End developer in non-stop growth, always trying to do things differently.
 
 <br>
 <br>
@@ -15,7 +14,7 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/stars/JamDev0/lists/repos"
-    >Aqui estão meus principais projetos🚀</a>
+    >Here lie my key projects 🚀</a>
   </h2>
 </div>
 
@@ -24,22 +23,24 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 <br>
 
 
-## :chart_with_upwards_trend: E aqui estão minhas estatísticas:
+## :chart_with_upwards_trend: And here my charts:
+
+
+<div align='center' >
+ <h3><b> Constancy (WakaTime) </b></h3>
+  <a href="https://wakatime.com"><img width="700em" src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/4aff0d30-f20f-4198-8895-f459868e1374.png" /></a>
+</div>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamdev0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamdev0&layout=compact&langs_count=7&theme=blue-green"/>
+  <h3><b> Most used languages (WakaTime) </b></h3>
+  <a href="https://wakatime.com"><img width="700em" src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/36f1c182-c7c0-4e2b-9756-293673146138.png" /></a>
 </div>
 
-
-<br>
 <br>
 
-
-## 📅 Todas informações sobre minha constância(WakaTime):
-<div style="flex-direction: column; display: flex; align-items: center;">
- <p style="font-weight: 600; font-size: 1.5rem" >Constância(WakaTime)</p>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/fe6e043e-26ec-4450-a510-107ce7b2c918.png" /></a>
+<div align='center'>
+  <h3><b> GitHub stats (github-readme-stats) </b></h3>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=jamdev0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -47,10 +48,10 @@ Um desenvolvedor front-end em constante evolução, sempre buscando inovar.
 <br>
 
 
-### Querendo me contatar?:
+### Want to talk to me?:
 
-Email: jamdeveloper0@gmail.com
+E-mail: jamdeveloper0@gmail.com
 
-Número: +55 11 947007927
+Phone: +55 11 947007927
 
 [Linkedin](https://www.linkedin.com/in/juan-garcia-5b8951214/) 
