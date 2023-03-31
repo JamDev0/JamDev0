@@ -37,10 +37,17 @@ React Front-End developer in non-stop growth, always trying to do things differe
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
+<br>
+
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" /> 
-</div>
+
+<br>
 
 <h5>Knex</h5>
+
+</div>
+
+
 
 <br>
 <br>
