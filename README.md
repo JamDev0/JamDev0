@@ -32,9 +32,11 @@ React Front-End developer in non-stop growth, always trying to do things differe
 
 ### Knoledge i'm buildin now
 
-back-end dev
+<div align="center">
+<h4>Back-End Dev with</h4>
 
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" /> 
+</div>
 
 <br>
 <br>
