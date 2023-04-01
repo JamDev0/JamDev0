@@ -9,7 +9,7 @@ React Front-End developer in non-stop growth, always trying to do things differe
 
 <br>
 
-### My solid knoledge are composed of
+### My solid knoledge
 
 <div align="center">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
