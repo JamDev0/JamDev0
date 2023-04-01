@@ -30,7 +30,7 @@ React Front-End developer in non-stop growth, always trying to do things differe
 
 <br>
 
-### Knoledge i'm buildin now
+### Knoledge i'm currently buildin
 
 <div align="center">
 <h4>Back-End Dev with</h4>
@@ -90,7 +90,7 @@ React Front-End developer in non-stop growth, always trying to do things differe
 <br>
 
 
-#### Want to talk to me?:
+#### Wanna talk to me?:
 
 E-mail: jamdeveloper0@gmail.com
 
