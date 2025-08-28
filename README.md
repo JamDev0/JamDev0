@@ -5,7 +5,7 @@
 
 ### In short, I'm a...
 
-React Front-End developer in non-stop growth, always trying to do things differently.
+Full-Stack developer in non-stop growth, always trying to do things differently.
 
 <br>
 
