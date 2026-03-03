@@ -101,11 +101,6 @@ In short: I treat agents as **reliable teammates** — I specify scope, provide 
 ### Charts
 
 <div align="center">
-  <h4><b>Constancy (WakaTime)</b></h4>
-  <a href="https://wakatime.com"><img width="600em" src="https://wakatime.com/share/@JamDev/5166ec99-0c30-4aca-8f9d-632b389a1c4a.png" alt="WakaTime coding activity" /></a>
-</div>
-
-<div align="center">
   <h4><b>Most used languages (WakaTime)</b></h4>
   <a href="https://wakatime.com"><img width="600em" src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/36f1c182-c7c0-4e2b-9756-293673146138.png" alt="WakaTime languages" /></a>
 </div>
