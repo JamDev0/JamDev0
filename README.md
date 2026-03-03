@@ -1,6 +1,9 @@
 ### Hello there 👋 I'm [Juan Garcia](https://www.linkedin.com/in/juan-garcia-5b8951214/)
+
 [![WakaTime](https://wakatime.com/badge/user/b7ab82c2-66bc-4b58-a798-45da580e9c0f.svg)](https://wakatime.com/@JamDev)
+
 **Full-stack engineer** in constant growth — I focus on **reliable APIs**, **validation-first backends**, and **modern React/Node** apps. I like to ship things that are safe to change and easy to run.
+
 ---
 ### Tech I work with
 
@@ -43,8 +46,11 @@
 </div>
 
 ---
+
 ### How I manage agents
+
 I use AI coding agents as a **force multiplier** in my daily work — not to replace thinking, but to extend it with clear instructions and guardrails.
+
 | What I do | Why it matters |
 |-----------|-----------------|
 | **Structure tasks in phases** | I break work into numbered steps (e.g. “0a. gather data; 1. produce report”) so the agent has a clear sequence and I can refine one phase without redoing everything. |
@@ -54,27 +60,27 @@ I use AI coding agents as a **force multiplier** in my daily work — not to rep
 | **Iterate until value is clear** | I don’t stop at the first draft: I ask “does this make my contribution clear?” and request refinements (ownership matrix, noise filtering, value-by-project) until the artifact is usable. |
 | **Reuse one evidence chain** | The same data (e.g. commit analysis) feeds contribution reports, tech stack lists, LinkedIn title, and this README — one source of truth, consistent story. |
 | **Design then implement** | For bigger efforts I use the agent to brainstorm and document a plan (with options and trade-offs), then hand off the plan for implementation with todos and tests (including “how do I test in isolation?”). |
+
 I also **create skills and rules** (e.g. OS-context discovery, browser-priority rules, project conventions) so agents behave consistently across sessions and workspaces. To stay current, I follow AI/Tecs trends mainly on **X (Twitter)** — I was an early adopter of **Ralph loops** and similar agentic patterns, and I keep an eye on emerging coding-agent workflows so I can evaluate and then adopt and adapt quickly.
+
 In short: I treat agents as **reliable teammates** — I specify scope, provide context, ask for evidence and iteration, and reuse outputs across docs and automation so my profile and deliverables stay aligned with what I actually ship.
+
 ---
-<div align="center">
-  <h3>
-    <a target="_blank" style="text-decoration: none" href="https://github.com/stars/JamDev0/lists/repos">
-      Key projects 🚀
-    </a>
-  </h3>
-</div>
----
+
 ### Charts
+
 <div align="center">
   <h4><b>Most used languages (WakaTime)</b></h4>
   <a href="https://wakatime.com"><img width="600em" src="https://wakatime.com/share/@b7ab82c2-66bc-4b58-a798-45da580e9c0f/36f1c182-c7c0-4e2b-9756-293673146138.png" alt="WakaTime languages" /></a>
 </div>
+
 <div align="center">
   <h4><b>GitHub stats</b></h4>
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=jamdev0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </div>
+
 ---
+
 ### Get in touch
 - **Email:** jamdeveloper0@gmail.com  
 - **Phone:** +55 11 94700-7927  
