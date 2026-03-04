@@ -153,15 +153,15 @@ In short: I treat agents as **reliable teammates** — I specify scope, provide 
 
 <!-- youtube-recent-start -->
 
-*Last synced: 04/03/2026, 15:30 (Brasília) · Next sync: ~04/03/2026, 22:00 (Brasília)*
+*Last synced: 04/03/2026, 15:47 (Brasília) · Next sync: ~04/03/2026, 22:00 (Brasília)*
 
 | | Title | Author |
 |---|------|--------|
+| [![thumb](https://img.youtube.com/vi/pabjPMpKIW8/mqdefault.jpg)](https://www.youtube.com/watch?v=pabjPMpKIW8) | [Inside America's Top Hackathon](https://www.youtube.com/watch?v=pabjPMpKIW8) | Soon |
+| [![thumb](https://img.youtube.com/vi/2RaG5cBDX90/mqdefault.jpg)](https://www.youtube.com/watch?v=2RaG5cBDX90) | [🚨🚨 PEWDIEPIE DOES IT AGAIN... -- Then Standup -- Casey Presents NotePad++ 🚨🚨](https://www.youtube.com/watch?v=2RaG5cBDX90) | The PrimeTime |
 | [![thumb](https://img.youtube.com/vi/M11pWurvpAo/mqdefault.jpg)](https://www.youtube.com/watch?v=M11pWurvpAo) | [Making a ridiculously heavy tungsten suit (it broke my body)](https://www.youtube.com/watch?v=M11pWurvpAo) | NileBlue |
 | [![thumb](https://img.youtube.com/vi/YPAb6-ESfg8/mqdefault.jpg)](https://www.youtube.com/watch?v=YPAb6-ESfg8) | [The World's Best Watch Is Only $20](https://www.youtube.com/watch?v=YPAb6-ESfg8) | Hunter Wears Things |
 | [![thumb](https://img.youtube.com/vi/1mmHnuG8jgE/mqdefault.jpg)](https://www.youtube.com/watch?v=1mmHnuG8jgE) | [A IA Quebrou o Modelo do GitHub](https://www.youtube.com/watch?v=1mmHnuG8jgE) | Augusto Galego |
-| [![thumb](https://img.youtube.com/vi/ADRUXI5fNd8/mqdefault.jpg)](https://www.youtube.com/watch?v=ADRUXI5fNd8) | [Microslop Microslop Microslop](https://www.youtube.com/watch?v=ADRUXI5fNd8) | The PrimeTime |
-| [![thumb](https://img.youtube.com/vi/sFEDAkJy9Dc/mqdefault.jpg)](https://www.youtube.com/watch?v=sFEDAkJy9Dc) | [I can't believe nobody's done this before...](https://www.youtube.com/watch?v=sFEDAkJy9Dc) | Theo - t3․gg |
 
 <!-- youtube-recent-end -->
 
