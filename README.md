@@ -137,6 +137,24 @@ In short: I treat agents as **reliable teammates** — I specify scope, provide 
 
 ---
 
+## Recently watched (YouTube)
+
+<!-- youtube-recent-start -->
+
+*Last synced: 04/03/2026, 15:30 (Brasília) · Next sync: ~04/03/2026, 22:00 (Brasília)*
+
+| | Title | Author |
+|---|------|--------|
+| [![thumb](https://img.youtube.com/vi/M11pWurvpAo/mqdefault.jpg)](https://www.youtube.com/watch?v=M11pWurvpAo) | [Making a ridiculously heavy tungsten suit (it broke my body)](https://www.youtube.com/watch?v=M11pWurvpAo) | NileBlue |
+| [![thumb](https://img.youtube.com/vi/YPAb6-ESfg8/mqdefault.jpg)](https://www.youtube.com/watch?v=YPAb6-ESfg8) | [The World's Best Watch Is Only $20](https://www.youtube.com/watch?v=YPAb6-ESfg8) | Hunter Wears Things |
+| [![thumb](https://img.youtube.com/vi/1mmHnuG8jgE/mqdefault.jpg)](https://www.youtube.com/watch?v=1mmHnuG8jgE) | [A IA Quebrou o Modelo do GitHub](https://www.youtube.com/watch?v=1mmHnuG8jgE) | Augusto Galego |
+| [![thumb](https://img.youtube.com/vi/ADRUXI5fNd8/mqdefault.jpg)](https://www.youtube.com/watch?v=ADRUXI5fNd8) | [Microslop Microslop Microslop](https://www.youtube.com/watch?v=ADRUXI5fNd8) | The PrimeTime |
+| [![thumb](https://img.youtube.com/vi/sFEDAkJy9Dc/mqdefault.jpg)](https://www.youtube.com/watch?v=sFEDAkJy9Dc) | [I can't believe nobody's done this before...](https://www.youtube.com/watch?v=sFEDAkJy9Dc) | Theo - t3․gg |
+
+<!-- youtube-recent-end -->
+
+---
+
 ## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-jamdeveloper0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jamdeveloper0@gmail.com)

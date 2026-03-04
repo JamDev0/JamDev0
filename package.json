@@ -1,0 +1,10 @@
+{
+  "name": "jamdev0",
+  "private": true,
+  "scripts": {
+    "youtube-history": "node scripts/youtube-history/run.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

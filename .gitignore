@@ -1,0 +1,5 @@
+node_modules/
+.youtube-history.json
+package-lock.json
+scripts/youtube-history/history-page-structure.json
+scripts/youtube-history/history-page-snapshot.html
