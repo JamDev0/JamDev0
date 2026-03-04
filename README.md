@@ -153,7 +153,7 @@ In short: I treat agents as **reliable teammates** — I specify scope, provide 
 
 <!-- youtube-recent-start -->
 
-*Last synced: 04/03/2026, 19:00 (Brasília) · Next sync: ~04/03/2026, 22:00 (Brasília)*
+*Last synced: 04/03/2026, 20:01 (Brasília) · Next sync: ~04/03/2026, 22:00 (Brasília)*
 
 | | Title | Author |
 |---|------|--------|
