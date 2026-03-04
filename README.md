@@ -13,6 +13,18 @@ I build and maintain backend and frontend systems with an emphasis on clarity, v
 
 ---
 
+## Table of contents
+
+- [Work at Future Secure AI](#work-at-future-secure-ai)
+- [Personal projects](#personal-projects)
+- [Tech & tools](#tech--tools)
+- [How I work with AI agents](#how-i-work-with-ai-agents)
+- [Stats](#stats)
+- [Recently watched (YouTube)](#recently-watched-youtube)
+- [Get in touch](#get-in-touch)
+
+---
+
 ## Work at Future Secure AI
 
 I contributed as a **full-stack engineer** across the Future Secure AI platform (Sep 2025 – Feb 2026), focusing on **reliability**, **security**, and **validation** so that systems are safer to run and easier to release. All work product and intellectual property from this engagement are the sole property of Future Secure AI.
