@@ -19,15 +19,14 @@ const HISTORY_MD_PATH = resolve(REPO_ROOT, 'youtube-watch-history.md');
 const START_MARKER = '<!-- youtube-recent-start -->';
 const END_MARKER = '<!-- youtube-recent-end -->';
 
-// Must match .github/workflows/youtube-history.yml schedule (e.g. "0 8 * * *" => 08:00 UTC).
-const CRON_UTC_HOUR = 1;
-const CRON_UTC_MINUTE = 0;
+// Must match .github/workflows/youtube-history.yml schedule (e.g. "36 * * * *" => :36 every hour UTC).
+const CRON_UTC_MINUTE = 36;
 const TZ_BRAZIL = 'America/Sao_Paulo';
 
 function getSyncTimes() {
   const now = new Date();
-  const nextUtc = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), CRON_UTC_HOUR, CRON_UTC_MINUTE, 0, 0));
-  if (now >= nextUtc) nextUtc.setUTCDate(nextUtc.getUTCDate() + 1);
+  const nextUtc = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), now.getUTCHours(), CRON_UTC_MINUTE, 0, 0));
+  if (now >= nextUtc) nextUtc.setUTCHours(nextUtc.getUTCHours() + 1);
   const opts = { timeZone: TZ_BRAZIL, dateStyle: 'short', timeStyle: 'short', hour12: false };
   const fmt = new Intl.DateTimeFormat('pt-BR', opts);
   return {
